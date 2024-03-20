@@ -2,7 +2,7 @@
 
 ## ℹ About Me
 
-Hello! I am a backend and mobile developer with a passion for crafting innovative solutions. With over 3 years of experience, I have helped companies and individuals meet their needs through robust backend systems and engaging mobile applications.
+Hello! I am a backend and mobile developer with a passion for crafting innovative solutions. With over 3 years of experience, I have helped companies and individuals meet their needs through robust backend systems and engaging web and mobile applications.
 
 ## 🚀 Skills
 
